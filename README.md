@@ -37,7 +37,10 @@ for instance
 ```
 Fixed bug of registration.
 
-Here is the description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt a purus id semper. Cras varius lectus sit amet massa condimentum, ut porttitor est vulputate. 
+Here is the description. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Praesent tincidunt a 
+purus id semper. Cras varius lectus sit amet massa
+condimentum, ut porttitor est vulputate. 
 
 [Issue #639]
 ```
