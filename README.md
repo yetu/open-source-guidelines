@@ -57,6 +57,8 @@ condimentum, ut porttitor est vulputate.
 ## Contribution
 We welcome community contributions, each project SHOULD contain relevant information regarding contributions rules. See [How to Contribute](CONTRIBUTING.md).
 
+## Contributors
+Each project MAY contain relevant information regarding contributors. See [Contributors](CONTRIBUTORS.md).
 
 
 ## Review
